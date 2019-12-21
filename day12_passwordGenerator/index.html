@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Password Generator</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/all.min.css"
+    />
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <!-- partial:index.partial.html -->
+    <!-- INSERT HTML HERE -->
+    <div class="container">
+      <h2>Password Generator</h2>
+      <div class="result-container">
+        <span id="result"></span>
+        <button class="btn" id="clipboard">
+          <i class="far fa-clipboard"></i>
+        </button>
+      </div>
+      <div class="settings">
+        <div class="setting">
+          <label>Password length</label>
+          <input type="number" id="length" min="4" max="20" value="20" />
+        </div>
+        <div class="setting">
+          <label>Include uppercase letters</label>
+          <input type="checkbox" id="uppercase" checked />
+        </div>
+        <div class="setting">
+          <label>Include lowercase letters</label>
+          <input type="checkbox" id="lowercase" checked />
+        </div>
+        <div class="setting">
+          <label>Include numbers</label>
+          <input type="checkbox" id="numbers" checked />
+        </div>
+        <div class="setting">
+          <label>Include symbols</label>
+          <input type="checkbox" id="symbols" checked />
+        </div>
+      </div>
+      <button class="btn btn-large" id="generate">
+        Generate password
+      </button>
+    </div>
+
+    <!-- SOCIAL PANEL HTML -->
+    <div class="social-panel-container">
+      <div class="social-panel">
+        <p>
+          Created with <i class="fa fa-heart"></i> by
+          <a target="_blank" href="http://jpromano.net">Juan P. Romano</a>
+        </p>
+        <button class="close-btn"><i class="fas fa-times"></i></button>
+        <h4>Get in touch on</h4>
+        <ul>
+          <li>
+            <a href="https://linkedin.com/in/jupromano" target="_blank">
+              <i class="fab fa-linkedin"></i>
+            </a>
+          </li>
+          <li>
+            <a href="https://instagram.com/juanp.rave" target="_blank">
+              <i class="fab fa-instagram"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <button class="floating-btn">
+      Get in Touch
+    </button>
+
+    <!-- partial -->
+    <script src="./script.js"></script>
+  </body>
+</html>
