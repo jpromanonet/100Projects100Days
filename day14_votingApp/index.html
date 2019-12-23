@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Voting App</title>
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
+    <script src="https://www.gstatic.com/firebasejs/7.0.0/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.0.0/firebase-database.js"></script>
+
+    <script>
+      // Your web app's Firebase configuration
+      var firebaseConfig = {
+        apiKey: "AIzaSyDHBGzVuRhke0UGxnjkmotVuHuQniIvlPk",
+        authDomain: "vote-app-85648.firebaseapp.com",
+        databaseURL: "https://vote-app-85648.firebaseio.com",
+        projectId: "vote-app-85648",
+        storageBucket: "",
+        messagingSenderId: "557459011810",
+        appId: "1:557459011810:web:f7e79909d00146cfaa86bb"
+      };
+      // Initialize Firebase
+      firebase.initializeApp(firebaseConfig);
+    </script>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/all.min.css"
+    />
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <!-- partial:index.partial.html -->
+    <!-- Design inspired by this shoot: https://dribbble.com/shots/3367213-Poll-app-concept -->
+
+    <div class="container">
+      <h2>Vote for your favorite project</h2>
+      <div id="items_container" class="items-container">
+        <p>Fetching data from the DB...</p>
+      </div>
+      <button id="submit_btn" class="btn">Submit vote!</button>
+    </div>
+
+    <!-- SOCIAL PANEL HTML -->
+    <div class="social-panel-container">
+      <div class="social-panel">
+        <p>
+          Created with <i class="fa fa-heart"></i> by
+          <a target="_blank" href="http://jpromano.net">Juan P. Romano</a>
+        </p>
+        <button class="close-btn"><i class="fas fa-times"></i></button>
+        <h4>Get in touch on</h4>
+        <ul>
+          <li>
+            <a href="https://linkedin.com/in/jupromano" target="_blank">
+              <i class="fab fa-linkedin"></i>
+            </a>
+          </li>
+          <li>
+            <a href="https://instagram.com/juanp.raven" target="_blank">
+              <i class="fab fa-instagram"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <button class="floating-btn">
+      Get in Touch
+    </button>
+
+    <!-- partial -->
+    <script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
+    <script src="./script.js"></script>
+  </body>
+</html>
