@@ -32,3 +32,4 @@ Ig: https://www.instagram.com/juanp.raven
 13. Contact Page - (https://jpromanonet.github.io/100Projects100Days/day13_contactPageDesign/)
 14. Voting App - (https://jpromanonet.github.io/100Projects100Days/day14_votingApp/)
 15. Clock - (https://jpromanonet.github.io/100Projects100Days/day15_Clock/)
+16. Testimonial Card - (https://jpromanonet.github.io/100Projects100Days/day16_testimonialCard/)
