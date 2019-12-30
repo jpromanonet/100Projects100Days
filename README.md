@@ -18,7 +18,8 @@ Ig: https://www.instagram.com/juanp.raven
 ## Project List
 
 1. Random Meal Generator - (https://jpromanonet.github.io/100Projects100Days/day01_randomMealGenerator/)
-2. Mood Calendar 2020 (https://jpromanonet.github.io/100Projects100Days/day02_moodCalendar/)
-3. Double Noise Flow Field (https://jpromanonet.github.io/100Projects100Days/day03_doubleNoiseFlowField/)
-4. Catch the insect (https://jpromanonet.github.io/100Projects100Days/day04_catchTheInsect/)
-5. User Profile Design (https://jpromanonet.github.io/100Projects100Days/day05_userProfileDesign/)
+2. Mood Calendar 2020 - (https://jpromanonet.github.io/100Projects100Days/day02_moodCalendar/)
+3. Double Noise Flow Field - (https://jpromanonet.github.io/100Projects100Days/day03_doubleNoiseFlowField/)
+4. Catch the insect - (https://jpromanonet.github.io/100Projects100Days/day04_catchTheInsect/)
+5. User Profile Design - (https://jpromanonet.github.io/100Projects100Days/day05_userProfileDesign/)
+6. Pokedex - (https://jpromanonet.github.io/100Projects100Days/day06_pokedex/)
