@@ -1,5 +1,5 @@
 # 100Projects100Days
-The idea is to make 100 projects in a 100 days streaks, making one project per day.
+The idea is to make 100 projects in a 100 days streak, making one project per day.
 
 ## Ground Rules
 
