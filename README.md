@@ -23,3 +23,4 @@ Ig: https://www.instagram.com/juanp.raven
 4. Catch the insect - (https://jpromanonet.github.io/100Projects100Days/day04_catchTheInsect/)
 5. User Profile Design - (https://jpromanonet.github.io/100Projects100Days/day05_userProfileDesign/)
 6. Pokedex - (https://jpromanonet.github.io/100Projects100Days/day06_pokedex/)
+7. Tribute page for James Bond - (https://jpromanonet.github.io/100Projects100Days/day07_tributePageForJamesBond/)
