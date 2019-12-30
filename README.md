@@ -27,4 +27,4 @@ Ig: https://www.instagram.com/juanp.raven
 8. JS Memory Game - (https://jpromanonet.github.io/100Projects100Days/day08_jsMemoryGame/)
 9. Math Wizz Game - (https://jpromanonet.github.io/100Projects100Days/day09_mathWizzGame/)
 10. Push Force Game - (https://jpromanonet.github.io/100Projects100Days/day10_pushForceGame/)
-11. Background Patter Generator - (https://jpromanonet.github.io/100Projects100Days/day11_backgroundPatternGenerator/)
+11. Pattern Generator - (https://jpromanonet.github.io/100Projects100Days/day11_backgroundPatternGenerator/)
