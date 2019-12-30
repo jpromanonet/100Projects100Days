@@ -25,3 +25,4 @@ Ig: https://www.instagram.com/juanp.raven
 6. Pokedex - (https://jpromanonet.github.io/100Projects100Days/day06_pokedex/)
 7. Tribute page for James Bond - (https://jpromanonet.github.io/100Projects100Days/day07_tributePageForJamesBond/)
 8. JS Memory Game - (https://jpromanonet.github.io/100Projects100Days/day08_jsMemoryGame/)
+9. Math Wizz Game - (https://jpromanonet.github.io/100Projects100Days/day09_mathWizzGame/)
