@@ -17,7 +17,9 @@ Ig: https://www.instagram.com/juanp.raven
 
 ## Project List
 
-1. Random Meal Generator (10/12/2019)
+1. Random Meal Generator 
+https://jpromanonet.github.io/100Projects100Days/day01_randomMealGenerator/
+
 2. Mood Calendar 2020 (11/12/2019)
 3. Double Noise Flow Field (12/12/2019)
 4. Catch the insect (13/12/2019)
