@@ -28,3 +28,4 @@ Ig: https://www.instagram.com/juanp.raven
 9. Math Wizz Game - (https://jpromanonet.github.io/100Projects100Days/day09_mathWizzGame/)
 10. Push Force Game - (https://jpromanonet.github.io/100Projects100Days/day10_pushForceGame/)
 11. Pattern Generator - (https://jpromanonet.github.io/100Projects100Days/day11_backgroundPatternGenerator/)
+12. Password Generator - (https://jpromanonet.github.io/100Projects100Days/day12_passwordGenerator/)
