@@ -38,3 +38,4 @@ Ig: https://www.instagram.com/juanp.raven
 19. Feedback UI Design - (https://jpromanonet.github.io/100Projects100Days/day19_feedbackUIDesign/)
 20. Tricky Cookie - (https://jpromanonet.github.io/100Projects100Days/day20_trickyCookie/)
 21. Background Animation - (https://jpromanonet.github.io/100Projects100Days/day21_backgroundAnimations/)
+22. Hover Board - (https://jpromanonet.github.io/100Projects100Days/day22_hoverBoard/)
