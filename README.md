@@ -39,3 +39,4 @@ Ig: https://www.instagram.com/juanp.raven
 20. Tricky Cookie - (https://jpromanonet.github.io/100Projects100Days/day20_trickyCookie/)
 21. Background Animation - (https://jpromanonet.github.io/100Projects100Days/day21_backgroundAnimations/)
 22. Hover Board - (https://jpromanonet.github.io/100Projects100Days/day22_hoverBoard/)
+23. Review Design - (https://jpromanonet.github.io/100Projects100Days/day23_reviewDesign/)
