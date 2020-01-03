@@ -41,3 +41,4 @@ Ig: https://www.instagram.com/juanp.raven
 22. Hover Board - (https://jpromanonet.github.io/100Projects100Days/day22_hoverBoard/)
 23. Review Design - (https://jpromanonet.github.io/100Projects100Days/day23_reviewDesign/)
 24. Gravity Switch - (https://jpromanonet.github.io/100Projects100Days/day24_gravitySwitch/)
+25. Line Through Effect - (https://jpromanonet.github.io/100Projects100Days/day25_lineThroughEffect/)
