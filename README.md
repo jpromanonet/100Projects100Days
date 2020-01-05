@@ -1,4 +1,5 @@
 # 100Projects100Days
+
 The idea is to make 100 projects in a 100 days streak, making one project per day.
 
 ## Ground Rules
@@ -11,7 +12,7 @@ The idea is to make 100 projects in a 100 days streak, making one project per da
 
 I gonna be posting everyday for the extend of the challenge in Linkedin and Instagram.
 
-Ln: https://www.linkedin.com/in/jupromano/ 
+Ln: https://www.linkedin.com/in/jupromano/
 
 Ig: https://www.instagram.com/juanp.raven
 
@@ -43,3 +44,4 @@ Ig: https://www.instagram.com/juanp.raven
 24. Gravity Switch - (https://jpromanonet.github.io/100Projects100Days/day24_gravitySwitch/)
 25. Line Through Effect - (https://jpromanonet.github.io/100Projects100Days/day25_lineThroughEffect/)
 26. Workout Tracker Design - (https://jpromanonet.github.io/100Projects100Days/day26_workoutTrackerDesign/)
+27. Event Key Codes - (https://jpromanonet.github.io/100Projects100Days/day27_eventKeyCodes/)
