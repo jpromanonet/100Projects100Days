@@ -48,3 +48,4 @@ Ig: https://www.instagram.com/juanp.raven
 28. Animated Navigation - (https://jpromanonet.github.io/100Projects100Days/day28_animatedNavigation/)
 29. New Year Countdown - (https://jpromanonet.github.io/100Projects100Days/day29_newYearCountdown/)
 30. Exchange Rate Calc - (https://jpromanonet.github.io/100Projects100Days/day30_exchangeRate/)
+31. Billionaries List - (https://jpromanonet.github.io/100Projects100Days/day31_billionariesList/)
