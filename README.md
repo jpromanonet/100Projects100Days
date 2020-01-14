@@ -52,3 +52,4 @@ Ig: https://www.instagram.com/juanp.raven
 32. Image Reflection - (https://jpromanonet.github.io/100Projects100Days/day32_imagerReflection/)
 33. Pricing Design - (https://jpromanonet.github.io/100Projects100Days/day33_pricingDesign)
 34. Panda Eye Follow - (https://jpromanonet.github.io/100Projects100Days/day34_pandaEyeFollow)
+35. Background Boxes - (https://jpromanonet.github.io/100Projects100Days/day35_backgroundBoxes/)
