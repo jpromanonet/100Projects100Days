@@ -53,3 +53,4 @@ Ig: https://www.instagram.com/juanp.raven
 33. Pricing Design - (https://jpromanonet.github.io/100Projects100Days/day33_pricingDesign)
 34. Panda Eye Follow - (https://jpromanonet.github.io/100Projects100Days/day34_pandaEyeFollow)
 35. Background Boxes - (https://jpromanonet.github.io/100Projects100Days/day35_backgroundBoxes/)
+36. Blog Post Design - (https://jpromanonet.github.io/100Projects100Days/day36_blogPostDesign/)
