@@ -56,3 +56,4 @@ Ig: https://www.instagram.com/juanp.raven
 36. Blog Post Design - (https://jpromanonet.github.io/100Projects100Days/day36_blogPostDesign/)
 37. Find It! - (https://jpromanonet.github.io/100Projects100Days/day37_findIt)
 38. The Different Chat - (https://jpromanonet.github.io/100Projects100Days/day38_theDifferentChat/)
+39. Verify E-mail UI - (https://jpromanonet.github.io/100Projects100Days/day39_verifyEmailUI/)
