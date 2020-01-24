@@ -60,3 +60,4 @@ Ig: https://www.instagram.com/juanp.raven
 40. Rotated Nav Bar - (https://jpromanonet.github.io/100Projects100Days/day40_rotatedNavBar/)
 41. Particles - (https://jpromanonet.github.io/100Projects100Days/day41_particles/)
 42. Loading Animation - (https://jpromanonet.github.io/100Projects100Days/day42_loadingAnimation/)
+43. Expanding Cards - (https://jpromanonet.github.io/100Projects100Days/day43_expandingCards/)
