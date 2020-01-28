@@ -63,4 +63,4 @@ Ig: https://www.instagram.com/juanp.raven
 43. Expanding Cards - (https://jpromanonet.github.io/100Projects100Days/day43_expandingCards/)
 44. Theme Toggler - (https://jpromanonet.github.io/100Projects100Days/day44_themeToggler/)
 45. Infinite Scroll - (https://jpromanonet.github.io/100Projects100Days/day45_infiniteScroll/)
-46. Side Animation Menu - (https://jpromanonet.github.io/100Projects100Days/day46_sideAnimationMenu/)
+46. Side Menu Animation - (https://jpromanonet.github.io/100Projects100Days/day46_sideMenuAnimation/)
