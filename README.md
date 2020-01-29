@@ -64,3 +64,4 @@ Ig: https://www.instagram.com/juanp.raven
 44. Theme Toggler - (https://jpromanonet.github.io/100Projects100Days/day44_themeToggler/)
 45. Infinite Scroll - (https://jpromanonet.github.io/100Projects100Days/day45_infiniteScroll/)
 46. Side Menu Animation - (https://jpromanonet.github.io/100Projects100Days/day46_sideMenuAnimation/)
+47. User Card Design - (https://jpromanonet.github.io/100Projects100Days/day47_userCardDesign/)
