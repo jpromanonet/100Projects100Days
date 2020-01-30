@@ -65,3 +65,4 @@ Ig: https://www.instagram.com/juanp.raven
 45. Infinite Scroll - (https://jpromanonet.github.io/100Projects100Days/day45_infiniteScroll/)
 46. Side Menu Animation - (https://jpromanonet.github.io/100Projects100Days/day46_sideMenuAnimation/)
 47. User Card Design - (https://jpromanonet.github.io/100Projects100Days/day47_userCardDesign/)
+48. Rotation Slide Show - (https://jpromanonet.github.io/100Projects100Days/day48_rotationSlideShow/)
