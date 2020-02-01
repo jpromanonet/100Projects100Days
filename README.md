@@ -67,3 +67,4 @@ Ig: https://www.instagram.com/juanp.raven
 47. User Card Design - (https://jpromanonet.github.io/100Projects100Days/day47_userCardDesign/)
 48. Rotation Slide Show - (https://jpromanonet.github.io/100Projects100Days/day48_rotationSlideShow/)
 49. Digital Blocks Clock - (https://jpromanonet.github.io/100Projects100Days/day49_blocksClock/)
+50. Become a Millionarie - (https://jpromanonet.github.io/100Projects100Days/day50_becomeAMillionaire/)
