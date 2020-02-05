@@ -71,3 +71,4 @@ Ig: https://www.instagram.com/juanp.raven
 51. Mobile Tab Navigation - (https://jpromanonet.github.io/100Projects100Days/day51_mobileTabNavigation/)
 52. Blobby - (https://jpromanonet.github.io/100Projects100Days/day52_blobby)
 53. Bad Jokes - (https://jpromanonet.github.io/100Projects100Days/day53_badJokes)
+54. Kinetic Loader - (https://jpromanonet.github.io/100Projects100Days/day54_kineticLoader)
