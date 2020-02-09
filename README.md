@@ -74,3 +74,4 @@ Ig: https://www.instagram.com/juanp.raven
 54. Kinetic Loader - (https://jpromanonet.github.io/100Projects100Days/day54_kineticLoader)
 55. Donate Design - (https://jpromanonet.github.io/100Projects100Days/day55_donateDesign)
 56. Instagram Feed - (https://jpromanonet.github.io/100Projects100Days/day56_instagramFeed)
+57. Form Validator - (https://jpromanonet.github.io/100Projects100Days/day57_formValidator)
