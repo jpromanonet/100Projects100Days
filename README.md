@@ -77,3 +77,5 @@ Ig: https://www.instagram.com/juanp.raven
 57. Form Validator - (https://jpromanonet.github.io/100Projects100Days/day57_formValidator)
 58. Background Changer - (https://jpromanonet.github.io/100Projects100Days/day58_backgroundChanger)
 59. Auto Text Effect - (https://jpromanonet.github.io/100Projects100Days/day59_autoText)
+60. Color Changing Game - (https://jpromanonet.github.io/100Projects100Days/day60_colorChangingGame)
+
