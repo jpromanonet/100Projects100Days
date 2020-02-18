@@ -83,3 +83,4 @@ Ig: https://www.instagram.com/juanp.raven
 63. Drink Water - (https://jpromanonet.github.io/100Projects100Days/day63_drinkWater)
 64. Random Picker - (https://jpromanonet.github.io/100Projects100Days/day64_randomPicker/)
 65. Youtube Suggestions - (https://jpromanonet.github.io/100Projects100Days/day65_youtubeSuggestions/)
+66. Sparkles - (https://jpromanonet.github.io/100Projects100Days/day66_sparkles/)
