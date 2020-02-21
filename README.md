@@ -86,3 +86,4 @@ Ig: https://www.instagram.com/juanp.raven
 66. Sparkles - (https://jpromanonet.github.io/100Projects100Days/day66_sparkles/)
 67. Breadcrumbs Design - (https://jpromanonet.github.io/100Projects100Days/day67_breadcrumbs/)
 68. Traffic Light - (https://jpromanonet.github.io/100Projects100Days/day68_trafficLight/)
+69. Invoice Design - (https://jpromanonet.github.io/100Projects100Days/day69_invoiceDesign/)
