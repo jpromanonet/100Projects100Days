@@ -87,4 +87,5 @@ Ig: https://www.instagram.com/juanp.raven
 67. Breadcrumbs Design - (https://jpromanonet.github.io/100Projects100Days/day67_breadcrumbs/)
 68. Traffic Light - (https://jpromanonet.github.io/100Projects100Days/day68_trafficLight/)
 69. Invoice Design - (https://jpromanonet.github.io/100Projects100Days/day69_invoiceDesign/)
-70. Blurry Loading - (https://jpromanonet.github.io/100Projects100Days/day70_blurryLoading)
+70. Blurry Loading - (https://jpromanonet.github.io/100Projects100Days/day70_blurryLoading/)
+71. Rain Drops - (https://jpromanonet.github.io/100Projects100Days/day71_rainDrops/)
