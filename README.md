@@ -91,3 +91,4 @@ Ig: https://www.instagram.com/juanp.raven
 71. Rain Drops - (https://jpromanonet.github.io/100Projects100Days/day71_rainDrops/)
 72. Tooltip - (https://jpromanonet.github.io/100Projects100Days/day72_tooltip/)
 73. Visit counter - (https://jpromanonet.github.io/100Projects100Days/day73_countVisit/)
+74. Pulse Effect - (https://jpromanonet.github.io/100Projects100Days/day74_pulseEffect/)
