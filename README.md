@@ -93,3 +93,4 @@ Ig: https://www.instagram.com/juanp.raven
 73. Visit counter - (https://jpromanonet.github.io/100Projects100Days/day73_countVisit/)
 74. Pulse Effect - (https://jpromanonet.github.io/100Projects100Days/day74_pulseEffect/)
 75. 404 not found - (https://jpromanonet.github.io/100Projects100Days/day75_404notfound/)
+76. Waves - (https://jpromanonet.github.io/100Projects100Days/day76_waves/)
