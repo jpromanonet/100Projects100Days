@@ -96,3 +96,4 @@ Ig: https://www.instagram.com/juanp.raven
 76. Waves - (https://jpromanonet.github.io/100Projects100Days/day76_waves/)
 77. Waves - (https://jpromanonet.github.io/100Projects100Days/day77_hotelReservation/)
 78. FAQ - (https://jpromanonet.github.io/100Projects100Days/day78_FAQ/)
+79. Good, Cheap, Fast - (https://jpromanonet.github.io/100Projects100Days/day79_goodCheapFast/)
